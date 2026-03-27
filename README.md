@@ -37,7 +37,7 @@ Automated OpenCore EFI Builder for AMD and Intel systems with hardware auto-scan
 * [Rufus](https://rufus.ie/) - Criador de pendrives bootáveis simples e rápido.
 
 **English:** Essential tools for preparing your Hackintosh environment:
-* [Olarila](https://www.olarila.com/) - macOS Images and community support.
+* [Olarila](https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/) - macOS Images and community support.
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Emergency Windows environment for repairs.
 * [Ventoy](https://www.ventoy.net/) - Best multiboot USB creator.
 * [Rufus](https://rufus.ie/) - Fast and simple bootable USB creator.
