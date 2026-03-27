@@ -21,9 +21,9 @@ Automated OpenCore EFI Builder for AMD and Intel systems with hardware auto-scan
 4. Clique em **"GERAR EFI COMPLETA"**.
 
 ## 🛠 Requisitos / Requirements
-* Windows 10/11 or windows PE.
-* Internet ativa.
-* **Privilégios de Administrador**.
+* Windows 10 / 11 or **Windows PE** (WinPE).
+* Conexão com a Internet / Active Internet connection.
+* **Privilégios de Administrador / Admin Privileges**.
 
 ## ⚖️ Créditos / Credits
 * [Acidanthera](https://github.com/acidanthera) (OpenCore, Lilu, VirtualSMC).
