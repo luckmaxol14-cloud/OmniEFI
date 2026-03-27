@@ -26,8 +26,8 @@ if __name__ == "__main__":
     class OmniEFI(ctk.CTk):
         def __init__(self):
             super().__init__()
-            self.title("OmniEFI Builder v4.1 - Fix Zip Error")
-            self.geometry("650x880")
+            self.title("OmniEFI Builder v4.1")
+            self.geometry("650x795")
             
             self.cpu_is_amd = False
             self.net_is_intel = False
