@@ -28,3 +28,16 @@ Automated OpenCore EFI Builder for AMD and Intel systems with hardware auto-scan
 ## ⚖️ Créditos / Credits
 * [Acidanthera](https://github.com/acidanthera) (OpenCore, Lilu, VirtualSMC).
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) (Documentation).
+
+* ## 🛠️ Ferramentas Recomendadas / Useful Tools
+**Português:** Para preparar seu ambiente de instalação, recomendo estas ferramentas:
+* [Olarila](https://www.olarila.com/) - Imagens de macOS prontas e suporte da comunidade.
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Sistema Windows de emergência para reparos.
+* [Ventoy](https://www.ventoy.net/) - A melhor ferramenta para criar pendrives multiboot.
+* [Rufus](https://rufus.ie/) - Criador de pendrives bootáveis simples e rápido.
+
+**English:** Essential tools for preparing your Hackintosh environment:
+* [Olarila](https://www.olarila.com/) - macOS Images and community support.
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Emergency Windows environment for repairs.
+* [Ventoy](https://www.ventoy.net/) - Best multiboot USB creator.
+* [Rufus](https://rufus.ie/) - Fast and simple bootable USB creator.
